@@ -139,6 +139,8 @@ public class ConjuntoOperaciones
      */
     public void vaciarConjuntos() {
         // IMPLEMENTAR
+        conjuntoA.clear();
+        conjuntoB.clear();
     }
     
     /**
