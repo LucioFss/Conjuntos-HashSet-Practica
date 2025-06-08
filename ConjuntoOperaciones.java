@@ -123,7 +123,7 @@ public class ConjuntoOperaciones
      * Determina si el conjunto A es subconjunto de B.
      */
     public boolean esSubconjuntoAenB() {
-        // IMPLEMENTAR
+        // IMPLEMENTARfdffdfd
         return false;
     }
     
