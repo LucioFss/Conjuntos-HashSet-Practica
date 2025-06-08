@@ -113,9 +113,9 @@ public class ConjuntoOperaciones
     /**
      * Devuelve un nuevo conjunto que es la diferencia A - B.
      */
-    public HashSet<Integer> obtenerDiferencia() {
+    public int obtenerDiferencia() {
         // IMPLEMENTAR
-        return null;
+        return 28288282;
     }
     
     /**
