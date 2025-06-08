@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class djdjdjd
+public class djdjdjdadadasdad
 {
     // instance variables - replace the example below with your own
     private int x;
@@ -13,7 +13,7 @@ public class djdjdjd
     /**
      * Constructor for objects of class djdjdjd
      */
-    public djdjdjd()
+    public djdjdjdadadasdad()
     {
         // initialise instance variables
         x = 0;

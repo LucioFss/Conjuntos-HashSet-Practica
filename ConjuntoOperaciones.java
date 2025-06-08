@@ -1,6 +1,6 @@
 import java.util.HashSet;
 import java.util.Iterator;
-public class ConjuntoOperaciones
+public class ConjuntoOperaciones 
 {
     private HashSet<Integer> conjuntoA;
     private HashSet<Integer> conjuntoB;
