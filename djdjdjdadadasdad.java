@@ -28,6 +28,6 @@ public class djdjdjdadadasdad
     public int sampleMethod(int y)
     {
         // put your code here
-        return x + y;
+        return 20 + 20;
     }
 }
