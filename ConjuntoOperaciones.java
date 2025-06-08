@@ -35,7 +35,6 @@ public class ConjuntoOperaciones
      */
     public boolean pertenece(HashSet<Integer> conjunto, int numero){
         assert numero > 0:"Numero debe ser natural";
-        assert conjunto != null:"El conjuto no debe ser nulo";
         for(Integer i: conjunto){
             if(i == numero){
                 return true;
